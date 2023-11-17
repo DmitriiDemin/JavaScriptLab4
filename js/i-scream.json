@@ -20,5 +20,15 @@
             "ingredients": ["peach","mango","milk"],
             "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/peach-mango.svg" 
         
-   }]
+   },{
+
+       
+        
+    "name": "Strawberry Sprinke",
+    "calories": 3000,
+    "type": "ice-cream",
+    "ingredients": ["Strawbery","Ice","Syrup"],
+    "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/strawberry-sprinkle.svg" 
+
+}]
 }
