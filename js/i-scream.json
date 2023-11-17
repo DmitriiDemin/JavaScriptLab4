@@ -8,7 +8,7 @@
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["milk","Chocolate","mint"],
-        "image": "chocolate-mint.svg" 
+        "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/chocolate-mint.svg" 
     },
     {
 
@@ -18,7 +18,7 @@
             "calories": 200,
             "type": "ice-cream",
             "ingredients": ["peach","mango","milk"],
-            "image": "peach-mango.svg" 
+            "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/peach-mango.svg" 
         
    }]
 }
