@@ -30,5 +30,25 @@
     "ingredients": ["Strawbery","Ice","Syrup"],
     "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/strawberry-sprinkle.svg" 
 
+},{
+
+       
+        
+    "name": "Scerbert ",
+    "calories": 2000,
+    "type": "ice-cream",
+    "ingredients": ["Strawbery","Mango","Milk"],
+    "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/ice-cream-xtra1.svg" 
+
+},{
+
+       
+        
+    "name": "Cheeze cake ",
+    "calories": 800,
+    "type": "cream",
+    "ingredients": ["Cheese","Sugar","Milk"],
+    "image": "https://dmitriidemin.github.io/JavaScriptLab4/images/ice-cream-xtra2.svg" 
+
 }]
 }
